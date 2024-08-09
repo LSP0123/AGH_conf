@@ -408,3 +408,8 @@
 @@||z.paranoid.agency
 @@||zecircle.xyz
 @@||*.mediafire.com
+@@||download2281.mediafire.com^$important
+@@||files2.freedownloadmanager.org^$important
+@@||statics.123pan.com^$important
+@@||get.activated.win^$important
+@@||massgrave.dev^$important
